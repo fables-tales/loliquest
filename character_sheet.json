@@ -1,0 +1,147 @@
+{
+
+    "concept": "the plague ridden baker",
+    "caste": "daybreak",
+    "attributes" : {
+        "physical" : {
+            "strength"  : 4,
+            "dexterity" : 4,
+            "stamina"   : 2
+        },
+        
+        "social" : {
+            "charisma"     : 4,
+            "manipulation" : 2,
+            "appearance"   : 5
+    
+        },
+        
+        "mental" : {
+            "perception"   : 3,
+            "intelligence" : 2,
+            "wits"         : 2
+        }
+    },
+    
+    "advantages" : {
+        "artifact" : 4,
+        "liege" : 3,
+        "followers" : 3,
+        "abyssal command" : 4
+        
+    },
+    
+    "virtues" : {
+        "compassion" : 2,
+        "temperance" : 2,
+        "conviction" : 3,
+        "valor"      : 3
+         
+    },
+
+    "willpower" : 5,
+
+    "essence" : 3,
+
+    "weapons and armor" : {
+        
+        "grand soulsteel goremaul" : {"defense" : -1,
+                                      "accuracy" : 4,
+                                      "damage": 16,
+                                      "rate": 1,
+                                      "speed": 5,
+                                      "overwhelming" : true
+                                     },
+        "cupcake dress" : {}
+    },
+
+    "charms" : {
+        "medicine" : [
+            "Pitiless Triage Judgement p158",
+            "plague eating kiss p158",
+            "pestilence bearing touch, p160 rabies hammer",
+            "venom bleeding agony, p160"
+        ],
+
+        "melee" : [
+            "second melee excellency",
+            "blade summon gesture",
+            "void sheath technique"
+        ],
+        "dodge" : [
+            "flitting shadow form",
+            "flitting whisper technique, conviction flaw"
+        ],
+
+        "charm" : [
+            "first craft excellency"
+        ]
+    },
+    
+
+    "abilities" : {
+        "melee" : {
+            "favoured" : true,
+            "caste" : false,
+            "dots" : 4
+        },
+
+        "dodge" : {
+            "favoured" : true,
+            "caste" : false,
+            "dots" : 4
+        }, 
+        
+        "integrity" : {
+            "favoured" : true,
+            "caste" : false,
+            "dots" : 3
+        }, 
+            
+        "ride" : {
+            "favoured" : true,
+            "caste"    : false,
+            "dots" : 2
+        },
+
+    
+        "socialize" : {
+            "favoured" : true,
+            "caste" : false,
+            "dots" : 2
+        },
+        
+
+        "craft" : {
+            "favoured" : true,
+            "caste" : true,
+            "dots" : 4
+        
+        },
+        
+        "investigation" : {
+            "favoured" : true,
+            "caste" : true,
+            "dots" : 1
+        },
+        
+        "lore" : {
+            "favoured" : true,
+            "caste" : true,
+            "dots" : 1
+        },
+        
+        "medicine" : {
+            "favoured" : true,
+            "caste" : true,
+            "dots" : 4
+        },
+
+        "occult" : {
+            "favoured" : true,
+            "caste" : true,
+            "dots" : 3
+        }
+        
+    }
+}
