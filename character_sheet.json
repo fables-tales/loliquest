@@ -52,7 +52,13 @@
                                       "speed": 5,
                                       "overwhelming" : true
                                      },
-        "cupcake dress" : {}
+        "cupcake dress" : {"soak": {"lethal": 8, "bashing": 7},
+                           "hardness": {"lethal": 6, "bashing": 6},
+                           "mobility": 0,
+                           "cost": 4,
+                           "attune": 4,
+                           "notes": "As Reinforced Breastplate (core book, page 391), but has Mobility -0 and 2 less soak and hardness as described. Also has the innate ability generate essence draining cupcakes. The dress may generate up to (Craft) cupcakes at once. If someone willingly eats the cupcake then they take (Essence) levels of unsoakable lethal damage and the Abyssal gains that many motes of essence. This ability has no range  and it goes off the Essence rating of the Abyssal at the time that the cupcake was created. In combat creating a cupcake is a speed 5 misc. action. If the Abyssal would generate more than (Craft) cupcakes then the oldest cupcake becomes meerly a normal cupcake."
+                          }
     },
 
     "charms" : {
